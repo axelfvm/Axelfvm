@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Axel Foley</h1>
 <h3 align="center">A passionate frontend and backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Larallo**
+- 🔭 I’m currently working on **HopMenu**
 
 - 📝 I regularly write articles on [afoley.com.br](afoley.com.br)
 
