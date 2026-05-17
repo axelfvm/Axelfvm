@@ -27,7 +27,7 @@
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,chartjs" alt="Frontend skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,jquery,chartjs" alt="Frontend skills" />
 </p>
 
 **Backend and languages**
