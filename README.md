@@ -58,12 +58,11 @@
 - Internal tools, dashboards and automation-focused projects.
 - Projects that connect software with real-world needs.
 
-### GitHub stats
+### Current focus
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Axelfvm&show_icons=true&theme=tokyonight&hide_border=true" alt="Axel Foley GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axelfvm&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
+- Improving full stack projects with PHP, Laravel, C#, .NET and JavaScript.
+- Building cleaner APIs, database structures and admin workflows.
+- Exploring better ways to ship reliable software with Docker, Linux and Git.
 
 ---
 
