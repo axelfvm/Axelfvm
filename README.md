@@ -27,13 +27,13 @@
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,chartjs" alt="Frontend skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,chartjs" alt="Frontend skills" />
 </p>
 
-**Backend**
+**Backend and languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,cs,dotnet" alt="Backend skills" />
+  <img src="https://skillicons.dev/icons?i=php,python,lua,laravel,symfony,cs,dotnet" alt="Backend and language skills" />
 </p>
 
 **Databases**
@@ -60,7 +60,7 @@
 
 ### Current focus
 
-- Improving full stack projects with PHP, Laravel, C#, .NET and JavaScript.
+- Improving full stack projects with PHP, Python, Lua, Laravel, C#, .NET and JavaScript.
 - Building cleaner APIs, database structures and admin workflows.
 - Exploring better ways to ship reliable software with Docker, Linux and Git.
 
